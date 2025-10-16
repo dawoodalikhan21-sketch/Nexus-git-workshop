@@ -1,7 +1,6 @@
-
-
 #include <stdio.h>
 int main(){
-    printf("nexus");
+    printf("main dawood")
+    printf("main aman")
     return 0;
 }
