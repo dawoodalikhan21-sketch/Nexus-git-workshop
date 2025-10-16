@@ -1,7 +1,5 @@
-
-
 #include <stdio.h>
 int main(){
-    printf("nexus");
+    printf("omer");
     return 0;
 }
